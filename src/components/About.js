@@ -1,5 +1,5 @@
 import React from "react";
-
+// this is the project 
 // import img
 import Image from "../assets/img/myImg.jpg";
 
