@@ -25,8 +25,7 @@ const Header = () => {
         {/* logo */}
         <a href='#'>
           {/* <img src={Logo} alt='' /> */}
-          𝙈𝙖𝙝𝙛𝙤𝙤𝙯 𝙆𝙝𝙖𝙣
-
+      <h1 style={{fontSize:"1.5rem"}}>𝙈𝙖𝙝𝙛𝙤𝙤𝙯 𝙆𝙝𝙖𝙣</h1>
         </a>
         {/* nav */}
         <div className='hidden lg:block'>

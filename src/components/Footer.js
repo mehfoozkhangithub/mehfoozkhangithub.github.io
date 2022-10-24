@@ -23,7 +23,7 @@ const Footer = () => {
           </div>
           <div>
             {/* <img src={Logo} alt='' /> */}
-            𝙈𝙖𝙝𝙛𝙤𝙤𝙯 𝙆𝙝𝙖𝙣
+            <h1 style={{fontSize:"1.5rem"}}>𝙈𝙖𝙝𝙛𝙤𝙤𝙯 𝙆𝙝𝙖𝙣</h1>
           </div>
           <p className='text-paragraph opacity-80 text-[15px]'>
             &copy; Designed and build by 𝙈𝙖𝙝𝙛𝙤𝙤𝙯 𝙆𝙝𝙖𝙣, 2022 All rights reserved.

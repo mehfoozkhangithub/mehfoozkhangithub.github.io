@@ -4,8 +4,9 @@ import styled from "styled-components";
 const Stats = () => {
   return (
     // streak
+    <div style={{background:"rgb(28,29,36)",padding:"5rem"}} >
     <div style={{ height: "15rem"}}>
-      <h1 style={{color:"black", margin:"auto",textAlign:"center", fontFamily:"Arial, Helvetica, sans-serif ", padding:"10px",font_weight:"bold" }}>Statics</h1>
+      <h1 style={{color:"white", margin:"auto",textAlign:"center", fontFamily:"Arial, Helvetica, sans-serif ", padding:"13px",background:"rgb(28,29,36)", fontSize:"2rem" }}>Github-Statics</h1>
       {/*   <div style={{ width: "40%", margin: "auto"}}>
         <a href="https://github.com/mehfoozkhangithub">
          <img
@@ -23,7 +24,8 @@ const Stats = () => {
           flexDirection: "row",
           margin: "auto",
           gap:"5px",
-         box_shadow:" rgba(0, 0, 0, 0.24) 0px 3px 8px"
+         box_shadow:" rgba(0, 0, 0, 0.24) 0px 3px 8px",
+         background:"rgb(28,29,36)",
         }}
       >
         <a href="https://github.com/mehfoozkhangithub">
@@ -39,6 +41,7 @@ const Stats = () => {
           />
         </a>
       </div>
+    </div>
     </div>
   );
 };

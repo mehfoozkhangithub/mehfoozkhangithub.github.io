@@ -39,9 +39,9 @@ import SkillImg7 from './assets/img/skills/git.png';
 import SkillImg8 from './assets/img/skills/figma.png';
 
 // testimonial images
-import TestiImage1 from './assets/img/testimonials/testimonial-1.webp';
-import TestiImage2 from './assets/img/testimonials/testimonial-2.webp';
-import TestiImage3 from './assets/img/testimonials/testimonial-3.webp';
+import TestiImage1 from './assets/img/testimonials/ujjwal.png';
+import TestiImage2 from './assets/img/testimonials/satayam.jpeg';
+import TestiImage3 from './assets/img/testimonials/rahul.jpeg';
 
 // navigation
 export const navigation = [
@@ -232,23 +232,23 @@ export const testimonials = [
   {
     authorImg: TestiImage1,
     authorText:
-      'Love the simplicity of the service and the prompt customer support. We can’t imagine working without it.',
-    authorName: 'Olivia Doe',
-    authorPosition: 'Head of Design, Google',
+      'It has been a real pleasure working with mehfooz he has been very professional and very clear in all communication which I appreciate.',
+    authorName: 'Ujjawal Singh',
+    authorPosition: 'Full-Stack-Developer',
   },
   {
     authorImg: TestiImage2,
     authorText:
-      'Love the simplicity of the service and the prompt customer support. We can’t imagine working without it.',
-    authorName: 'Olivia Doe',
-    authorPosition: 'Head of Design, Google',
+      'I am so lucky to work with you because you can bring innovative ideas and a fresh perspective on the project & you have leadership quality to compete task with your team-member.',
+    authorName: 'Satyam Yadav',
+    authorPosition: 'Backend-Developer',
   },
   {
     authorImg: TestiImage3,
     authorText:
-      'Love the simplicity of the service and the prompt customer support. We can’t imagine working without it.',
-    authorName: 'Olivia Doe',
-    authorPosition: 'Head of Design, Google',
+      'I am so glad to have the opportunity to work on this team with you and your dedication related to work is so perfect which is always help me to stay motivated.',
+    authorName: 'Rahul Mahagan',
+    authorPosition: 'MERN- Developer',
   },
 ];
 

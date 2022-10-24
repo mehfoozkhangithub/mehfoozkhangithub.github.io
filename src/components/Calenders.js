@@ -19,10 +19,10 @@ const Calender = () => {
     });
   };
   return (
-    <div >
-    <h1 style={{color:"black", margin:"auto",textAlign:"center", fontFamily:"Arial, Helvetica, sans-serif ", padding:"10px",font_weight:"bold" , box_shadow:" rgba(0, 0, 0, 0.24) 0px 3px 8px"}}>Calender</h1>
+    <div style={{background:"rgb(5,4,2)",color:"white",padding:"5rem"}} >
+    <h1 style={{color:"white", margin:"auto",textAlign:"center", fontFamily:"Arial, Helvetica, sans-serif ", padding:"13px",font_weight:"bold" ,  background:"rgb(5,4,2)", fontSize:"2rem"}}>Github-Calender</h1>
       <GitHubCalendar
-        style={{ margin: "auto", marginBottom:"50px"}}
+        style={{ margin: "auto"}}
         username="mehfoozkhangithub"
         transformData={selectLastHalfYear}
         blockSize={20}
