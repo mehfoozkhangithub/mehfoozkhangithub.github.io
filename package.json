@@ -1,5 +1,5 @@
 {
-  "homepage": "https://mehfoozkhangithub.github.io/mehfoozkhangithub.github.io",
+  "homepage": "https://mehfoozkhangithub.github.io",
   "name": "my_portfolio",
   "version": "0.1.0",
   "private": true,
@@ -8,9 +8,13 @@
     "@testing-library/react": "^12.1.4",
     "@testing-library/user-event": "^13.5.0",
     "gh-pages": "^4.0.0",
+    "github-calendar": "^2.3.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-github-calendar": "^3.3.4",
     "react-scripts": "5.0.0",
+    "react-tooltip": "^4.4.3",
+    "styled-components": "^5.3.6",
     "web-vitals": "^2.1.4"
   },
   "scripts": {
