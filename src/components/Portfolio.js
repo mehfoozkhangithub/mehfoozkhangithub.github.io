@@ -12,8 +12,7 @@ const Portfolio = () => {
             My latest work
           </h2>
           <p className='subtitle'>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga veniam
-            labore nisium illum cupiditate reiciendis a numquam
+           This is all  have done past 6 - 7 month of journey and i cover the knowledged of full stack development and I build some good web site clone withe the knowledge i cover form masai. 
           </p>
         </div>
         <Projects />

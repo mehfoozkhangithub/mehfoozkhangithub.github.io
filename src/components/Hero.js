@@ -1,7 +1,7 @@
 import React from 'react';
 
 // import woman image
-import WomanImg from '../assets/img/full-stack-development.gif';
+import WomanImg from '../assets/img/myImg.jpg';
 import Resume from '../assets/img/Mehfooz Khan.pdf';
 
 const Hero = () => {
@@ -26,7 +26,7 @@ const Hero = () => {
               <a href={Resume} download={true}>Resume</a>
             </button>
           </div>
-          <div className='hidden lg:flex flex-1 justify-end items-center h-full'>
+          <div className='hidden md:flex flex-1 justify-end items-center h-full'>
             <img src={WomanImg} alt='' />
           </div>
         </div>
