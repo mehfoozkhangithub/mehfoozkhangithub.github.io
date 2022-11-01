@@ -1,7 +1,7 @@
 import React from 'react';
 
 // import woman image
-import MehfoozImg from '../assets/img/myImg.jpg';
+import MehfoozImg from '../assets/img/myImg1.jpg';
 import Resume from '../assets/img/Mehfooz Khan.pdf';
 
 const Hero = () => {
