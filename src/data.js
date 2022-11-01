@@ -21,8 +21,8 @@ import BehanceBrandIcon from './assets/img/brands/behance.png';
 import DribbbleBrandIcon from './assets/img/brands/dribbble.png';
 
 // projects images
-import Project1 from './assets/img/img(Project)/cal1.png';
-import Project2 from './assets/img/img(Project)/fp.png';
+import Project1 from './assets/img/img(Project)/calNew.png';
+import Project2 from './assets/img/img(Project)/fpNew.png';
 import Project3 from './assets/img/img(Project)/bb.png';
 import Project4 from './assets/img/projects/p4.webp';
 import Project5 from './assets/img/projects/p5.webp';
@@ -122,27 +122,31 @@ export const projectsData = [
     image: Project1,
     name: 'Calculator[Day/Night]',
     category: 'Calculator',
-    description:'About This is my first project "CALCULATOR", which make me happy and excited. This project aspire me to keep coding always. It is fully functional and optimism for mobile.',
-     link:'cheery-kulfi-a9a524.netlify.app/',
+    description:'This is my first project "CALCULATOR", This project aspire me to keep coding always. It is fully functional and optimism for mobile.',
+     link:'https://cheery-kulfi-a9a524.netlify.app',
      git:'https://github.com/mehfoozkhangithub/Calculater-mode-Day-Night-',
+     stack:"HTML || CSS",
   },
   {
     id: '2',
     image: Project2,
     name: 'First Post',
     category: 'News-App',
-    description:'In this website there are some really good containt which they export the data on server to show whats going in the world and updating the news per hours on a day that really good to know everything is in one website',
-     link:'adorable-halva-74275f.netlify.app',
+    description:'In this website there are some really good containt which they export the data on server to show whats going in the world.',
+     link:'https://adorable-halva-74275f.netlify.app/?current=1',
      git:'https://github.com/mehfoozkhangithub/First-Post',
+     stack:"HTML || CSS || JS || REACT || CHAKRA-UI || JSON",
   },
   {
     id: '3',
     image: Project3,
     name: 'Big-Basket',
     category: 'Shopping-App',
-    description:'This is a construct week. In this project we have tries to create a full stack clone of Bigbasket and for that we have used Reactjs as frontend framework, nodejs as backend framework, mongodb atlas to store the data,authenticate the user, sending otp and chakra ui library for responsiveness and getting the exact feature as main website. This project was built by self in 5 Days.',
-     link:'bigbasket-clone-web16.netlify.app/',
+    description:'In this project we have tries to create a full stack clone of Bigbasket This project was built by self in 5 Days.',
+     link:'https://bigbasket-clone-web16.netlify.app/',
      git:'https://github.com/mehfoozkhangithub/Big_Basket',
+     stack:"HTML || CSS || JS || REACT || CHAKRA-UI || JSON ",
+
   },
   // {
   //   id: '4',
@@ -193,12 +197,12 @@ export const skills = [
   },
   {
     image: SkillImg4,
-  },  {
+  },
+  {
     image: "https://chiranjeev-thapliyal.vercel.app/svg/redux.svg",
   },
   {
-    image:
-      "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+    image:"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
   },
   // {
   //   image: SkillImg5,
@@ -209,12 +213,22 @@ export const skills = [
   {
     image: SkillImg7,
   },
+  {
+    image: "https://chiranjeev-thapliyal.vercel.app/svg/nodejs.svg",
+  },
+  {
+    image: "https://chiranjeev-thapliyal.vercel.app/svg/mongodb.svg",
+  },
+  {
+    image:
+      "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg",
+  },
   // {
   //   image: SkillImg8,
   // },
-  {
-    image: "https://www.coffeeclass.io/logos/chakra-ui.png",
-  },
+  // {
+  //   image: "https://www.coffeeclass.io/logos/chakra-ui.png",
+  // },
   // {
   //   image: "https://chiranjeev-thapliyal.vercel.app/svg/nodejs.svg",
   // },

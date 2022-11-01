@@ -1,7 +1,7 @@
 import React from 'react';
 
 // import woman image
-import WomanImg from '../assets/img/myImg.jpg';
+import MehfoozImg from '../assets/img/myImg.jpg';
 import Resume from '../assets/img/Mehfooz Khan.pdf';
 
 const Hero = () => {
@@ -27,7 +27,7 @@ const Hero = () => {
             </button>
           </div>
           <div className='hidden md:flex flex-1 justify-end items-center h-full'>
-            <img src={WomanImg} alt='' />
+            <img src={MehfoozImg} alt='' />
           </div>
         </div>
       </div>
