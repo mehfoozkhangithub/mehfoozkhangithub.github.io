@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.37c6cb2d.css",
-    "main.js": "/static/js/main.d56d810b.js",
+    "main.js": "/static/js/main.66b635da.js",
     "static/media/full-stack-development.gif": "/static/media/full-stack-development.7835ddbfd9d23e02b60c.gif",
     "static/media/Mehfooz Khan.pdf": "/static/media/Mehfooz Khan.c560e60e37029f67f95d.pdf",
     "static/media/ujjwal.png": "/static/media/ujjwal.2e904433398a79105a55.png",
     "static/media/bb.png": "/static/media/bb.91cca05d979cc8b34228.png",
-    "static/media/myImg.jpg": "/static/media/myImg.f2146a59872803c4880f.jpg",
     "static/media/fpNew.png": "/static/media/fpNew.636c7a5cb0759ce08a8a.png",
     "static/media/calNew.png": "/static/media/calNew.bcb0ee6b5c3554d37fe3.png",
     "static/media/p5.webp": "/static/media/p5.40f22911cc8104bfdf42.webp",
     "static/media/rahul.jpeg": "/static/media/rahul.0f2d0ee31c5e523cf9c4.jpeg",
     "static/media/satayam.jpeg": "/static/media/satayam.d405926dbc05cbf2d2a7.jpeg",
+    "static/media/myImg1.jpg": "/static/media/myImg1.ce96dbbed79efee33729.jpg",
     "static/media/logo.svg": "/static/media/logo.b521a898489cfa7dc3863d7e83be3cc1.svg",
     "static/media/services.svg": "/static/media/services.2d6c88f25842315ca095.svg",
     "static/media/portfolio.svg": "/static/media/portfolio.2f31f4be113e35cc3442.svg",
@@ -22,10 +22,10 @@
     "static/media/about.svg": "/static/media/about.70a8290c961c47c208b5.svg",
     "index.html": "/index.html",
     "main.37c6cb2d.css.map": "/static/css/main.37c6cb2d.css.map",
-    "main.d56d810b.js.map": "/static/js/main.d56d810b.js.map"
+    "main.66b635da.js.map": "/static/js/main.66b635da.js.map"
   },
   "entrypoints": [
     "static/css/main.37c6cb2d.css",
-    "static/js/main.d56d810b.js"
+    "static/js/main.66b635da.js"
   ]
 }
