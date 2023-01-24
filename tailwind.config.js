@@ -1,21 +1,21 @@
 module.exports = {
-  content: ['./src/**/*.{js,jsx,ts,tsx}'],
+  content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     fontFamily: {
-      primary: 'Playfair Display',
-      body: 'Work Sans',
+      primary: "Playfair Display",
+      body: "Work Sans",
     },
     container: {
       padding: {
-        DEFAULT: '1rem',
-        lg: '3rem',
+        DEFAULT: "1rem",
+        lg: "3rem",
       },
     },
     screens: {
-      sm: '640px',
-      md: '768px',
-      lg: '1024px',
-      xl: '1280px',
+      sm: "340px",
+      md: "668px",
+      lg: "1024px",
+      xl: "1280px",
     },
     extend: {
       content: {
@@ -26,14 +26,14 @@ module.exports = {
         contact: 'url("/src/assets/img/outline-text/contact.svg")',
       },
       colors: {
-        primary: '#050402',
-        secondary: '#1C1D24',
-        tertiary: '#131419',
+        primary: "#050402",
+        secondary: "#1C1D24",
+        tertiary: "#131419",
         accent: {
-          DEFAULT: '#ac6b34',
-          hover: '#925a2b',
+          DEFAULT: "#ac6b34",
+          hover: "#925a2b",
         },
-        paragraph: '#878e99',
+        paragraph: "#878e99",
       },
     },
   },

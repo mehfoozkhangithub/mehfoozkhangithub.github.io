@@ -1,5 +1,5 @@
 import React from "react";
-// this is the project 
+// this is the project
 // import img
 import Image from "../assets/img/full-stack-development.gif";
 
@@ -15,7 +15,7 @@ const About = () => {
           />
           <div className="flex flex-col items-center text-center lg:items-start lg:text-left">
             <div className="flex flex-col">
-              <h2 className="text-3xl lg:text-4xl font-medium lg:font-extrabold mb-3 before:content-about relative before:absolute before:opacity-40 before:-top-[2rem] before:hidden before:lg:block">
+              <h2 className="text-3xl lg:text-4xl font-medium lg:font-extrabold mb-3 before:content- relative before:absolute before:opacity-40 before:-top-[2rem] before:hidden before:lg:block">
                 𝙈𝙖𝙝𝙛𝙤𝙤𝙯 𝙆𝙝𝙖𝙣
               </h2>
               <p className="mb-4 text-accent">Full Stack Web Developer</p>
@@ -26,7 +26,11 @@ const About = () => {
                 building user-centric products by translating user requirements
                 into technical solutions. <br />
                 <br />
-                Brian enjoys meeting new people and learning about their lives and backgrounds. He easily finds common interests with strangers and tends to make most people feel comfortable. He finds this skill especially advantageous when kicking off projects with new clients.
+                Brian enjoys meeting new people and learning about their lives
+                and backgrounds. He easily finds common interests with strangers
+                and tends to make most people feel comfortable. He finds this
+                skill especially advantageous when kicking off projects with new
+                clients.
               </p>
             </div>
             <button className="btn btn-md bg-accent hover:bg-secondary-hover transition-all">
