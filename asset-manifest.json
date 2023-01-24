@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.822303db.css",
-    "main.js": "/static/js/main.0e32d66b.js",
+    "main.js": "/static/js/main.7c046ebe.js",
     "static/media/full-stack-development.gif": "/static/media/full-stack-development.7835ddbfd9d23e02b60c.gif",
     "static/media/Mehfooz-Khan-Resume.pdf": "/static/media/Mehfooz-Khan-Resume.c560e60e37029f67f95d.pdf",
     "static/media/ujjwal.png": "/static/media/ujjwal.2e904433398a79105a55.png",
@@ -18,10 +18,10 @@
     "static/media/p6.webp": "/static/media/p6.26fcf4320bfa0eacc03a.webp",
     "index.html": "/index.html",
     "main.822303db.css.map": "/static/css/main.822303db.css.map",
-    "main.0e32d66b.js.map": "/static/js/main.0e32d66b.js.map"
+    "main.7c046ebe.js.map": "/static/js/main.7c046ebe.js.map"
   },
   "entrypoints": [
     "static/css/main.822303db.css",
-    "static/js/main.0e32d66b.js"
+    "static/js/main.7c046ebe.js"
   ]
 }
